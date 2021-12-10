@@ -233,6 +233,10 @@ elements = {
         "path": "dataIdInfo/resConst/LegConsts/useLimit",
         "type": "string"},
 
+    "access": {
+        "path": "dataIdInfo/resConst/LegConsts/othConsts",
+        "type": "string"},
+
     "limitation": {  #TODO: does read correctly when entered though ArcGIS Online. They are stored in a seperated resConst element
         "path": "dataIdInfo/resConst/Consts/useLimit",
         "type": "string"},
